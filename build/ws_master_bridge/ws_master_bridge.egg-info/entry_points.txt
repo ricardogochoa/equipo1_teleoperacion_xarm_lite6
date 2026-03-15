@@ -1,0 +1,4 @@
+[console_scripts]
+master_ws_bridge = ws_master_bridge.master_ws_bridge:main
+test_traj_pub = ws_master_bridge.test_traj_pub:main
+

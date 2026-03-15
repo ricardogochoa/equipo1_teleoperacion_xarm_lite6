@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+resource/ws_master_bridge
+ws_master_bridge/__init__.py
+ws_master_bridge/master_ws_bridge.py
+ws_master_bridge/test_traj_pub.py
+ws_master_bridge.egg-info/PKG-INFO
+ws_master_bridge.egg-info/SOURCES.txt
+ws_master_bridge.egg-info/dependency_links.txt
+ws_master_bridge.egg-info/entry_points.txt
+ws_master_bridge.egg-info/requires.txt
+ws_master_bridge.egg-info/top_level.txt
+ws_master_bridge.egg-info/zip-safe

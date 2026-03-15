@@ -1,0 +1,25 @@
+[0.964s] Invoking command in '/home/ochoagram/ws_master_ws/build/ws_master_bridge': PYTHONPATH=/home/ochoagram/ws_master_ws/build/ws_master_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ochoagram/ws_master_ws/install/ws_master_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ochoagram/ws_master_ws/build/ws_master_bridge/build --no-deps symlink_data
+[1.286s] running develop
+[1.494s] running egg_info
+[1.494s] creating ws_master_bridge.egg-info
+[1.494s] writing ws_master_bridge.egg-info/PKG-INFO
+[1.494s] writing dependency_links to ws_master_bridge.egg-info/dependency_links.txt
+[1.495s] writing entry points to ws_master_bridge.egg-info/entry_points.txt
+[1.495s] writing requirements to ws_master_bridge.egg-info/requires.txt
+[1.495s] writing top-level names to ws_master_bridge.egg-info/top_level.txt
+[1.495s] writing manifest file 'ws_master_bridge.egg-info/SOURCES.txt'
+[1.497s] reading manifest file 'ws_master_bridge.egg-info/SOURCES.txt'
+[1.498s] writing manifest file 'ws_master_bridge.egg-info/SOURCES.txt'
+[1.499s] running build_ext
+[1.500s] Creating /home/ochoagram/ws_master_ws/install/ws_master_bridge/lib/python3.10/site-packages/ws-master-bridge.egg-link (link to .)
+[1.501s] Installing master_ws_bridge script to /home/ochoagram/ws_master_ws/install/ws_master_bridge/lib/ws_master_bridge
+[1.501s] Installing test_traj_pub script to /home/ochoagram/ws_master_ws/install/ws_master_bridge/lib/ws_master_bridge
+[1.501s] 
+[1.501s] Installed /home/ochoagram/ws_master_ws/build/ws_master_bridge
+[1.501s] running symlink_data
+[1.502s] creating /home/ochoagram/ws_master_ws/install/ws_master_bridge/share/ament_index
+[1.502s] creating /home/ochoagram/ws_master_ws/install/ws_master_bridge/share/ament_index/resource_index
+[1.502s] creating /home/ochoagram/ws_master_ws/install/ws_master_bridge/share/ament_index/resource_index/packages
+[1.502s] symbolically linking /home/ochoagram/ws_master_ws/build/ws_master_bridge/resource/ws_master_bridge -> /home/ochoagram/ws_master_ws/install/ws_master_bridge/share/ament_index/resource_index/packages
+[1.502s] symbolically linking /home/ochoagram/ws_master_ws/build/ws_master_bridge/package.xml -> /home/ochoagram/ws_master_ws/install/ws_master_bridge/share/ws_master_bridge
+[1.550s] Invoked command in '/home/ochoagram/ws_master_ws/build/ws_master_bridge' returned '0': PYTHONPATH=/home/ochoagram/ws_master_ws/build/ws_master_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ochoagram/ws_master_ws/install/ws_master_bridge/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ochoagram/ws_master_ws/build/ws_master_bridge/build --no-deps symlink_data
